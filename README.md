@@ -6,7 +6,7 @@ This Specialization builds on the success of the Python for Everybody course and
 
 -------------
 
-**Course 1: Programming for Everybody (Getting Started with Python)  
+**Course 1: Programming for Everybody (Getting Started with Python)**  
 
 **Course 2: Python Data Structures**
 
