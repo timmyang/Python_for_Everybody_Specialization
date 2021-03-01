@@ -1,0 +1,5 @@
+
+#,President,Born,Age at start of presidency,Age at end of presidency,Post-presidency timespan,Died,Age
+1,George Washington,Feb 22 1732[a],57 years 67 days Apr 30 1789,65 years 10 days Mar 4 1797,2 years 285 days,Dec 14 1799,67 years 295 days
+2,John Adams,Oct 30 1735[a],61 years 125 days Mar 4 1797,65 years 125 days Mar 4 1801,25 years 122 days,Jul 4 1826,90 years 247 days
+3,Thomas Jefferson,Apr 13 1743[a],57 years 325 days Mar 4 1801,65 years 325 days Mar 4 1809,17 years 122 days,Jul 4 1826,83 years 82 days
